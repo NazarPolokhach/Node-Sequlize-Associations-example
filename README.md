@@ -1,2 +1,2 @@
-# Node.js Sequlize Associations example
+# Node.js Sequelize Associations example
 
