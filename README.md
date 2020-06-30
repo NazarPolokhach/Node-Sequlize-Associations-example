@@ -1,0 +1,1 @@
+# Node-Sequlize-Associations-example
